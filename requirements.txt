@@ -1,6 +1,6 @@
-google-api-python-client==2.198.0
-mutagen==1.48.1
-requests==2.34.2
-SecretStorage==3.5.0
-yt-dlp==2026.6.9
-yt-dlp-ejs==0.8.0
+google-api-python-client
+mutagen
+requests
+SecretStorage
+yt-dlp
+yt-dlp-ejs
