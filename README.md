@@ -21,7 +21,7 @@ termux-setup-storage
 
 ## Setup
 ```bash
-git clone https://github.com/tuna-hub/yt-music-downloader
+git clone https://github.com/tuna-hub/yt-music-downloader-v2
 cd yt-music-downloader
 python3 -m venv venv
 source venv/bin/activate
